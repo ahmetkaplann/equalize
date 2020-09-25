@@ -2,7 +2,7 @@
 
 The jQuery plugin for equalizing the height or width of elements.
 
-Use of
+<b>How to Use</b>
 
 ```
 $(".row").equalize({
