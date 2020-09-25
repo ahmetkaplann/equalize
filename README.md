@@ -10,6 +10,6 @@ $(".row").equalize({
 });
 ```
 
-#Legal
+# Legal
 
 Author & copyright (c) 2020:  <a href="http://ahmetkaplan.org/">Ahmet Kaplan</a>
